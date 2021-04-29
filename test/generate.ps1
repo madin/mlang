@@ -1,0 +1,1 @@
+java -jar ../tool/antlr-4.9.2-complete.jar -Dlanguage=Python3 ../grammar/mlang.g4
